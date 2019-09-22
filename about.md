@@ -1,10 +1,5 @@
----
-layout: page
-title: About
-permalink: /about/
----
 
-Some information about you!
+Alaa' Omar is a software engineer, and a master student who is studying software engineering at Birzeit university.
 
 ### More Information
 
@@ -12,4 +7,4 @@ A place to include any other types of information that you'd like to include abo
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[alaa.omer2009@gmail.com](mailto:email@domain.com)
