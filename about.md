@@ -4,6 +4,7 @@ title: About
 permalink: /about/
 ---
 Alaa' Omar is a software engineer, and a master student who is studying software engineering at Birzeit university.
+For extra information, please take a look at [Alaa' Omar resume](/docs/CV.pdf)
 
 ### More Information
 
