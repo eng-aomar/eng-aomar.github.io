@@ -4,7 +4,7 @@ title: MCSA Courses
 permalink: /mcse/
 ---
 
-# 2018/2019 Second semester #
+# 2018/2019 Second semester 
 
    * **Course Number:** SWEN6302
    * **Course Name** : RESEARCH METHODS IN SOFTWARE ENGINEERING
@@ -14,7 +14,7 @@ permalink: /mcse/
    * **Course Name** : SOFTWARE DESIGN AND ARCHITECTURE
    * **Course Outline** :[SWEN6304 Outline](/coursers_outline/SWEN6304_outline.pdf)
     ---
-# 2018/2019 Second semester #
+# 2018/2019 Second semester 
 
    * **Course Number:** SWEN6301
    * **Course Name** : SOFTWARE CONSTRUCTION
