@@ -24,5 +24,5 @@ permalink: /mcse/
    * **Course Number:** SWEN6303
    * **Course Name:**  SOFTWARE REQUIREMENTS ENGINEERING
    
-    -----------------------------------------
+  -----------------------------------------
  
