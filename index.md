@@ -9,4 +9,4 @@ permalink: index.html
 
 -David Viscott (Finding Your Strength in Difficult Times)
 
-For extra information, please take a look at [Alaa' Omar resume](/docs/CV.pdf)
+
