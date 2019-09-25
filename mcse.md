@@ -13,12 +13,16 @@ permalink: /mcse/
    * **Course Number:**  SWEN6304
    * **Course Name:**   SOFTWARE DESIGN AND ARCHITECTURE
   
-    
+   -----------------------------------------
 # 2018/2019 Second semester 
 
    * **Course Number:** SWEN6301
    * **Course Name:**  SOFTWARE CONSTRUCTION
-   -----------------------------------
+ 
+  -----------------------------------------
+  
    * **Course Number:** SWEN6303
    * **Course Name:**  SOFTWARE REQUIREMENTS ENGINEERING
-   --------------------------------
+   
+    -----------------------------------------
+ 
