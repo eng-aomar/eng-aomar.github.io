@@ -9,4 +9,6 @@ permalink: index.html
 
 -David Viscott (Finding Your Strength in Difficult Times)
 
+![](https://raw.githubusercontent.com/eng-aomar/eng-aomar.github.io/master/images/rise.jpg)
+
 
