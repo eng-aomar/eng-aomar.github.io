@@ -20,5 +20,5 @@ Theory, and Practice by R. N. Taylor, N. Medvidovic, et al](https://www.amazon.c
 ### Software Requirements Engineering
 
 1. [Requirements Engineering: From System Goals to UML
-Models to Software Specifications, Wiley, 2009 by Axel van Lamsweerde] (https://www.amazon.com/Requirements-Engineering-System-Software-Specifications/dp/0470012706/ref=sr_1_1?dchild=1&keywords=Requirements+Engineering%3A+From+System+Goals+to+UML+Models+to+Software+Specifications%2C+Wiley&qid=1593618588&s=books&sr=1-1)
+Models to Software Specifications, Wiley, 2009 by Axel van Lamsweerde](https://www.amazon.com/Requirements-Engineering-System-Software-Specifications/dp/0470012706/ref=sr_1_1?dchild=1&keywords=Requirements+Engineering%3A+From+System+Goals+to+UML+Models+to+Software+Specifications%2C+Wiley&qid=1593618588&s=books&sr=1-1)
 2. [Software Requirements](https://www.amazon.com/Software-Requirements-Developer-Best-Practices/dp/0735679665/ref=sr_1_1?dchild=1&keywords=Software+Requirements%2C+3rd+edition%2C+Microsoft+Press%2C&qid=1593618641&s=books&sr=1-1)
